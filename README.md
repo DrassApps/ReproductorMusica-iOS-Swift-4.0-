@@ -22,3 +22,4 @@ Lista de canciones y letras
 Vista de favoritos y canción actual
 
 ![VistaFavoritos](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura3.png)
+![Captura1](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura4.png)
