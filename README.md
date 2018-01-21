@@ -9,17 +9,14 @@ Reprocudtor de música para iOS, desarrollado con Xcode y Swift 4.0 es una aplic
 * Reconoce las canciones favoritas
 
 
-Captura de la vista principal y menú lateral
+Vista principal -> Menú lateral -> Todas las canciones
 
 ![VistaPrincipal](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura5.png)
 ![MenuLateral](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura6.png)
-
-Lista de canciones y letras
-
 ![ListaCanciones](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura1.png)
-![VistaLetras](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura2.png)
 
-Vista de favoritos y canción actual
+Canción actual -> Letra de canciones -> Vista favortios
 
-![VistaFavoritos](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura3.png)
 ![Captura1](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura4.png)
+![VistaLetras](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura2.png)
+![VistaFavoritos](https://github.com/DrassApps/ReproductorMusica-iOS-Swift-4.0-/blob/master/RepMusica/Capturas/captura3.png)
